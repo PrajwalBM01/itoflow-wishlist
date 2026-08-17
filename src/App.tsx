@@ -29,8 +29,8 @@ export function App() {
         <div className="flex min-h-dvh w-full max-w-[1350px] flex-col">
           {/* header */}
           <div className="flex h-12 shrink-0 items-center justify-between px-4 sm:px-6">
-            <h1 className="font-itoflow text-xl font-semibold text-black sm:text-2xl">
-              itoflow
+            <h1 className="font-itospace text-xl font-semibold text-black sm:text-2xl">
+              itospace
             </h1>
             <span className="flex items-center gap-2 rounded-lg bg-white/50 p-1 px-2 text-xs text-black shadow sm:text-sm">
               Coming soon
@@ -89,7 +89,7 @@ export function App() {
                 </h1>
 
                 <p className="mt-8 max-w-md text-center font-mono text-sm text-black sm:text-base lg:mt-10 lg:text-left">
-                  itoflow is a canvas based tool where you can share context
+                  itospace is a canvas based tool where you can share context
                   between nodes without the hassle of hopping between platforms.
                 </p>
 

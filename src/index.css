@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Khand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Khand:wght@300;400;500;600;700&display=swap");
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
@@ -43,8 +43,8 @@
   --color-foreground: var(--foreground);
   --color-background: var(--background);
   --font-quantico: "Quantico", sans-serif;
-  --font-itoflow: "Audiowide", sans-serif;
-  --font-khand : 'Khand', sans-serif;
+  --font-itospace: "Audiowide", sans-serif;
+  --font-khand: "Khand", sans-serif;
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
