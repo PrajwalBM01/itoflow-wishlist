@@ -103,7 +103,7 @@ export function WaitlistForm() {
       </form>
 
       <p
-        className="text-center text-xs text-neutral-600 lg:text-left"
+        className="text-center text-xs text-neutral-600 lg:pl-8 lg:text-left"
         role={status === "error" ? "alert" : undefined}
       >
         {status === "error"
