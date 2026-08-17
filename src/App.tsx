@@ -1,4 +1,4 @@
-import { ArrowRight, Bot, Mail, Split, Telescope, Workflow } from "lucide-react"
+import { ArrowRight, Bot, Split, Telescope, Workflow } from "lucide-react"
 import ColorBends from "./components/ColorBends"
 import { WaitlistForm } from "./components/WaitlistForm"
 
