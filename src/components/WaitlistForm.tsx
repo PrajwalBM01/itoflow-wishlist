@@ -58,11 +58,11 @@ export function WaitlistForm() {
     <>
       <form
         onSubmit={handleSubmit}
-        className="flex w-full max-w-sm items-center rounded-full bg-foreground/60 p-1 pl-3 shadow-lg sm:pl-4"
+        className="flex w-full max-w-sm items-center rounded-full bg-white/15 p-1 pl-3 shadow-lg sm:pl-4"
       >
         <Mail
           strokeWidth={1}
-          className="size-5 shrink-0 text-black"
+          className="size-5 shrink-0"
           aria-hidden="true"
         />
         <input
@@ -73,7 +73,7 @@ export function WaitlistForm() {
           required
           autoComplete="email"
           aria-label="Email address"
-          className="min-w-0 flex-1 bg-transparent px-2 text-sm text-black placeholder-neutral-500 outline-0 focus-visible:outline-0"
+          className="min-w-0 flex-1 bg-transparent px-2 text-sm  placeholder-neutral-500 outline-0 focus-visible:outline-0"
           placeholder="Enter your email"
         />
 
